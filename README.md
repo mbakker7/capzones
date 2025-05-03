@@ -1,1 +1,3 @@
-# capzones
+# Python scripts to delineate capture zone envelopes for pumping wells in fields of uniform areal recharge
+
+This notebook includes Python scripts to delineate the capture zone envelopes of pumping wells in uniform areal recharge. Mathematical details and examples are presented in the paper Bakker, M., (2025) “Capture Zone Envelopes for Pumping Wells in Fields of Uniform Areal Recharge”, ARC Geophysical Research 1(1): 7. doi: https://doi.org/10.5149/ARC-GR.1425, which is available [here](https://janeway.uncpress.org/ARC-GR/article/id/1425/).
